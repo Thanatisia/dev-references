@@ -8,14 +8,16 @@ for various programming/scripting languages
 ## Documentation
 ### Example Layout
 ```
-- Concept
-    - Contents
-        + file.{extension}
+- project-root/
+    - concepts/
+        - [concept-title]/
+            - implementations/
+                + file.{extension}
 ```
 
 ### Example Folder Structure and File Contents
 - Concept: "main" file - The launcher/runner of a program
-    - Contents:
+    - Implementations:
         + main.c
         + main.cpp
         + main.cs
@@ -24,7 +26,7 @@ for various programming/scripting languages
         + main.py
 
 - Concept: command line argument parsing
-    - Contents:
+    - Implementations:
         + cli-parsing.c
         + cli-parsing.cpp
         + cli-parsing.cs
@@ -43,5 +45,6 @@ for various programming/scripting languages
 + YouTube - Emmanuele Bassi - Let's write a GNOME app in Python, part 1, 2
 
 ## References
++ May be used alongside my implementation testing and practice project: [Thanatisia/dev-practice-project](https://github.com/Thanatisia/dev-practice-project)
 
 ## Remarks
