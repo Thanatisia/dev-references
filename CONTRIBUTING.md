@@ -53,7 +53,7 @@
 - Once the [Pre-Requisites](#pre-requisites) and [Initial Setup](#initial-setup) are completed
     + You do not need to do those anymore unless you re-cloned the project
 
-### Start
+### Development Lifecycle
 
 #### Host Local Repository
 - Pull/Fetch and merge the latest changes
@@ -148,6 +148,11 @@
             ```
 
 ### Post-Pull Request cleanup
+- Switch back to main branch to prepare for a new feature
+    ```console
+    git switch main
+    ```
+
 - Delete unnecessary branches
     - Notes
         - To ensure you reduce the clutter on your project workspace
@@ -156,4 +161,5 @@
     git branch -d [branch-name]
     ```
 
++ Repeat [Host Local Repository - Step 1](#host-local-repository)
 
