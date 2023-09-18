@@ -3,11 +3,13 @@
 ## Table of Contents
 + [2023-09-18 1433H](#2023-09-18-1433H)
 + [2023-09-18 1446H](#2023-09-18-1446H)
++ [2023-09-18 1523H](#2023-09-18-1523H)
 
-## 2023-09-18 1433H
+## Changes
+### 2023-09-18 1433H
 + Initial Commit
 
-## 2023-09-18 1446H
+### 2023-09-18 1446H
 - New
     + Added new folder 'implementations' into 'main' concept for storing all implementation examples
     + Added new CHANGELOG file
@@ -17,4 +19,8 @@
         + Python
 - Updates
     + Moved project source files from 'main' concept into 'implementations' folder
+
+### 2023-09-18 1523H
++ Added CONTRIBUTING file for information about contributions
+
 
