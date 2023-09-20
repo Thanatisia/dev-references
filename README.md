@@ -38,8 +38,11 @@ for various programming/scripting languages
 + .cpp : Language=C++
 + .cs  : Language=C#
 + .go  : Language=Golang
-+ .rs  : Language=Rust
++ .js  : Language=Javascript
 + .py  : Language=Python
++ .rs  : Language=Rust
++ .ts  : Language=Typescript
++ .zig : Language=Zig(lang)
 
 ## Resources
 + YouTube - Emmanuele Bassi - Let's write a GNOME app in Python, part 1, 2
