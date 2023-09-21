@@ -50,6 +50,8 @@ def obtain_args():
 
             # Increment index
             i += 1
+    else:
+        print("No arguments provided.")
 
 def process_args():
     """
