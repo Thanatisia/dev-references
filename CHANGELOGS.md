@@ -10,6 +10,7 @@
 + [2023-10-04 1102H](#2023-10-04-1102H)
 + [2023-10-04 1946H](#2023-10-04-1946H)
 + [2023-10-04 1950H](#2023-10-04-1950H)
++ [2023-10-04 2132H](#2023-10-04-2132H)
 
 ## Changes
 ### 2023-09-18 1433H
@@ -62,3 +63,8 @@
 - New
     + Added new Web Development framework 'flask' to python
     + Added a WIP setup file to flask docs
+
+### 2023-10-04 2132H
+- New
+    + Added new language documentation 'C'
+
