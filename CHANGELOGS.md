@@ -4,7 +4,8 @@
 + [2023-09-18 1433H](#2023-09-18-1433H)
 + [2023-09-18 1446H](#2023-09-18-1446H)
 + [2023-09-18 1523H](#2023-09-18-1523H)
-+ [2023-10-04 1013H](#2023-10-04-1013H)
++ [2023-10-04 1013H](#2023-10-04-1003H)
++ [2023-10-04 1057H](#2023-10-04-1057H)
 
 ## Changes
 ### 2023-09-18 1433H
@@ -35,4 +36,8 @@
     + Added more language extensions to README
     + Updated concepts README with new additions
     + Updated python command line argument implementation 'manual-1' with a else condition
+
+### 2023-10-04 1057H
+- New
+    + Created new folder 'languages' that is designed to separate and filter according to the languages, and each language will have a similar filesystem structure to ensure readability, combined with potential expandibility
 
