@@ -4,8 +4,12 @@
 + [2023-09-18 1433H](#2023-09-18-1433H)
 + [2023-09-18 1446H](#2023-09-18-1446H)
 + [2023-09-18 1523H](#2023-09-18-1523H)
-+ [2023-10-04 1013H](#2023-10-04-1003H)
++ [2023-10-04 1003H](#2023-10-04-1003H)
++ [2023-10-04 1023H](#2023-10-04-1023H)
 + [2023-10-04 1057H](#2023-10-04-1057H)
++ [2023-10-04 1102H](#2023-10-04-1102H)
++ [2023-10-04 1946H](#2023-10-04-1946H)
++ [2023-10-04 1950H](#2023-10-04-1950H)
 
 ## Changes
 ### 2023-09-18 1433H
@@ -37,7 +41,24 @@
     + Updated concepts README with new additions
     + Updated python command line argument implementation 'manual-1' with a else condition
 
+### 2023-10-04 1023H
+- New
+    + Added C++ implementation of 'main'
+
 ### 2023-10-04 1057H
 - New
     + Created new folder 'languages' that is designed to separate and filter according to the languages, and each language will have a similar filesystem structure to ensure readability, combined with potential expandibility
 
+### 2023-10-04 1102H
+- New
+    + Added new Web Development framework 'SvelteJS' to Javascript
+    + Added a simple README to SvelteJS concept 'components'
+
+### 2023-10-04 1946H
+- New
+    + Added folder 'snippets' for HTML-related examples
+
+### 2023-10-04 1950H
+- New
+    + Added new Web Development framework 'flask' to python
+    + Added a WIP setup file to flask docs
