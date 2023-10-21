@@ -12,6 +12,7 @@
 + [2023-10-04 1950H](#2023-10-04-1950H)
 + [2023-10-04 2132H](#2023-10-04-2132H)
 + [2023-10-14 1746H](#2023-10-14-1746H)
++ [2023-10-21 2307H](#2023-10-21-2307H)
 
 ## Changes
 ### 2023-09-18 1433H
@@ -72,4 +73,27 @@
 ### 2023-10-14 1746H
 - New
     + Added README to folder 'platforms'
+
+### 2023-10-21 2307H
+- New
+    - Added new folder 'cs' for language 'C#' to 'languages'
+        - Added new subfolder 'concepts'
+            - Added new subfolder 'main'
+                - Added new subfolder 'CLI'
+                    - Added new subfolder 'implementations'
+                        + Added new file 'main.cs'
+                - Added new subfolder 'GUI'
+                    - Added new subfolder 'implementations'
+                        + Added new document 'Program.cs'
+                        + Added new document 'Form1.cs'
+                        + Added new document 'Form1.Designer.cs'
+            - Added new subfolder 'command-line-arguments'
+                - Added new subfolder 'CLI'
+                    - Added new subfolder 'implementations'
+                        + Added new file 'main.cs'
+                - Added new subfolder 'GUI'
+                    - Added new subfolder 'implementations'
+                        + Added new document 'Program.cs'
+                        + Added new document 'Form1.cs'
+                        + Added new document 'Form1.Designer.cs'
 
