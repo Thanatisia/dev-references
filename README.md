@@ -13,6 +13,16 @@ for various programming/scripting languages
         - [concept-title]/
             - implementations/
                 + file.{extension}
+    - languages/
+        - [programming/web-dev/mobile-dev languages]/
+            - concepts/
+                - [concept-title]/
+                    - implementations/
+            - frameworks/
+                - docs/
+            - libraries/
+                - docs/
+                - projects/
 ```
 
 ### Example Folder Structure and File Contents
