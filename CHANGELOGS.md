@@ -14,6 +14,7 @@
 + [2023-10-14 1746H](#2023-10-14-1746H)
 + [2023-10-21 2307H](#2023-10-21-2307H)
 + [2023-11-05 1044H](#2023-11-05-1044H)
++ [2023-12-14 2006H](#2023-12-14-2006H)
 
 ## Changes
 ### 2023-09-18 1433H
@@ -107,4 +108,10 @@
 - Updates
     - Updated CHANGELOG
     - Updated root README with extra information
+
+### 2023-12-14 2006H
+- New
+    - Added new directory 'systems-programming' in 'languages/python/concepts'
+- Updates
+    - Updated document 'README.md' in 'languages' with Systems Programming categories
 

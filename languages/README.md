@@ -15,6 +15,12 @@
     + [C#](cs/concepts/main)
     + [python](python/concepts/main)
 
+### Systems Programming
+- UUID
+    + [python](python/concepts/systems-programming/get-uuid)
+- Subprocess
+    + [python](python/concepts/systems-programming/subprocess)
+
 ### Web Development
 - index page
     + [html](html/concepts/index)
@@ -24,6 +30,5 @@
     - SvelteJS
         - [Concepts](javascript/frameworks/SvelteJS/concepts)
             - [components](javascript/frameworks/SvelteJS/concepts/components)
-
 
 
