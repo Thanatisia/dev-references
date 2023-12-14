@@ -15,6 +15,7 @@
 + [2023-10-21 2307H](#2023-10-21-2307H)
 + [2023-11-05 1044H](#2023-11-05-1044H)
 + [2023-12-14 2006H](#2023-12-14-2006H)
++ [2023-12-14 2019H](#2023-12-14-2019H)
 
 ## Changes
 ### 2023-09-18 1433H
@@ -114,4 +115,9 @@
     - Added new directory 'systems-programming' in 'languages/python/concepts'
 - Updates
     - Updated document 'README.md' in 'languages' with Systems Programming categories
+
+### 2023-12-14 2019H
+- New
+    - Added new directory 'snippets' in 'languages/python/libraries/sqlite3' for SQLite3 code and snippets
+        - Added new sqlite3 snippet 'connect-db.py' for connecting to sqlite3 database and creating a cursor pointer using the connection object
 
