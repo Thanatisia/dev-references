@@ -1,0 +1,2 @@
+gtts
+pygame # For audio output

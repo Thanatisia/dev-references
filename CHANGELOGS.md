@@ -16,6 +16,7 @@
 + [2023-11-05 1044H](#2023-11-05-1044H)
 + [2023-12-14 2006H](#2023-12-14-2006H)
 + [2023-12-14 2019H](#2023-12-14-2019H)
++ [2023-12-21 1855H](#2023-12-21-1855H)
 
 ## Changes
 ### 2023-09-18 1433H
@@ -120,4 +121,12 @@
 - New
     - Added new directory 'snippets' in 'languages/python/libraries/sqlite3' for SQLite3 code and snippets
         - Added new sqlite3 snippet 'connect-db.py' for connecting to sqlite3 database and creating a cursor pointer using the connection object
+
+### 2023-12-21 1855H
+- New
+    - Added new libraries to python
+        - gtts : Google Text-to-Speech API/library
+        - numpy : Numpy
+        - pygame : Python Game I/O helper library
+        - speech_recognition : Speech Recognition and Audio Input library
 
